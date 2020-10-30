@@ -1,0 +1,28 @@
+Thank you for downloading ZYBORK!
+
+This game is by Kadable (me, Kade Hennessy), and is made in Pygame.
+
+--How To Play the Game--
+
+To play the game, double-click on ZYBORK.exe, select extract, and select the location
+you want the extracted files to go to. Now go to this newly created folder (called the same name as 
+the .zip file) and double click on ZYBORK.exe to play the game.
+
+--Controls--
+
+Arrow keys or WASD to move.
+Spacebar, up arrow or W to jump.
+Bouncing off of walls resets your double jump!
+Press enter to advance cutscenes, dialouge and screens!
+
+--Notes--
+
+There is a little surprise at the end if you unlock all the medals :)
+If you are too lazy to get them you can just replace the 'no's in medal_data.txt with yes (you dirty cheater, you).
+
+This is my first game so feedback would be extra appreciated!
+
+--Shameful Plugs--
+
+Twitter: @kadablegames
+Instagram: @kadable

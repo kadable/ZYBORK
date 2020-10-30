@@ -1,0 +1,22 @@
+Thank you for downloading the ZYBORK Demo!
+
+This game is by Kadable (me), and is made in Pygame.
+
+--How To Play the Game--
+
+To play the game, double-click on ZYBORKDemo.exe, select extract, and select the location
+you want the extracted files to go to. Now go to this newly created folder (called the same name as 
+the .zip file) and double click on ZYBORKDemo.exe to play the game.
+
+--Controls--
+
+Arrow keys or WASD to move.
+Spacebar, up arrow or W to jump.
+Bouncing off of a wall resets your double jump!
+
+--Notes--
+
+This demo is really short, as it is mainly me testing out any problems on other computers.
+The full game will have 23 levels, cutscenes and all that jazz finished games tend to have.
+
+Thank you for playing :)
