@@ -1758,10 +1758,6 @@ def main():
     pygame.display.flip()
     whiteText("A game by",80,200,60)
     whiteText("Kadable",80,300,100)
-
-    
-
-    
     pygameClock.tick(0.5)
     screen.blit(enterToContinueImage,(0,0))
     whiteText("Press enter to advance dialouge, cutscenes",10,250,50)
